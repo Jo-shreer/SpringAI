@@ -1,4 +1,6 @@
 # SpringAI
+https://spring.io/projects/spring-ai
+
 What is Spring AI?
 Spring AI is a part of the Spring ecosystem that makes it easier to work with AI services like OpenAI, Azure OpenAI, 
 Hugging Face, and others using familiar Spring patterns. It abstracts away the complexity of working directly with APIs and provides 
